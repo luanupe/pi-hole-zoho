@@ -1,0 +1,55 @@
+# Title: ManageEngine & Zoho
+
+#=====================================
+# Title: Hosts contributed by Luan Oliveira
+# https://www.linkedin.com/in/luan-augusto
+
+0.0.0.0 zoho.com
+0.0.0.0 www.zoho.com
+0.0.0.0 salesiq.zoho.com
+0.0.0.0 files-me-accl.zoho.com
+0.0.0.0 us1-dms.zoho.com
+0.0.0.0 us2-dms.zoho.com
+0.0.0.0 us3-dms.zoho.com
+0.0.0.0 us4-dms.zoho.com
+0.0.0.0 accounts.zoho.com
+
+0.0.0.0 zohopublic.com
+0.0.0.0 www.zohopublic.com
+0.0.0.0 files.zohopublic.com
+0.0.0.0 salesiq.zohopublic.com
+0.0.0.0 fonts.zohowebstatic.com
+0.0.0.0 vts.zohopublic.com
+
+0.0.0.0 zohowebstatic.com
+0.0.0.0 www.zohowebstatic.com
+
+0.0.0.0 zohostatic.com
+0.0.0.0 www.zohostatic.com
+0.0.0.0 fonts.zohostatic.com
+
+0.0.0.0 js.zohocdn.com
+0.0.0.0 css.zohocdn.com
+0.0.0.0 gsite.zohocdn.com
+0.0.0.0 static.zohocdn.com
+0.0.0.0 downloads.zohocdn.com
+0.0.0.0 h2-stratus.zohocdn.com
+
+0.0.0.0 zohosalesiq.com
+0.0.0.0 www.zohosalesiq.com
+0.0.0.0 widgets.zohosalesiq.com
+
+0.0.0.0 zohotagmanager.cdn.pagesense.io
+
+0.0.0.0 manageengine.com
+0.0.0.0 www.manageengine.com
+0.0.0.0 endpointcentral-agent1.manageengine.com
+0.0.0.0 endpointcentral-agent2.manageengine.com
+0.0.0.0 endpointcentral-agent3.manageengine.com
+0.0.0.0 endpointcentral-agent4.manageengine.com
+0.0.0.0 endpointcentral-agent5.manageengine.com
+0.0.0.0 endpointcentral-agent6.manageengine.com
+0.0.0.0 endpointcentral-agent7.manageengine.com
+0.0.0.0 endpointcentral-agent8.manageengine.com
+0.0.0.0 endpointcentral-agent9.manageengine.com
+0.0.0.0 endpointcentral-agent10.manageengine.com
