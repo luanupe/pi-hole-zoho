@@ -4,30 +4,67 @@
 # Title: Hosts contributed by Luan Oliveira
 # https://www.linkedin.com/in/luan-augusto
 
+0.0.0.0 dualstack.elb-zohojapan-533932603.ap-northeast-1.elb.amazonaws.com
+
 0.0.0.0 zoho.com
 0.0.0.0 www.zoho.com
+0.0.0.0 accounts.zoho.com
 0.0.0.0 salesiq.zoho.com
+0.0.0.0 pre-external-h2.zoho.com
 0.0.0.0 files-me-accl.zoho.com
 0.0.0.0 us1-dms.zoho.com
 0.0.0.0 us2-dms.zoho.com
 0.0.0.0 us3-dms.zoho.com
 0.0.0.0 us4-dms.zoho.com
-0.0.0.0 accounts.zoho.com
+0.0.0.0 us5-dms.zoho.com
+
+0.0.0.0 zoho.com.au
+0.0.0.0 www.zoho.com.au
+0.0.0.0 accounts.zoho.com.au
+0.0.0.0 zs-au1-lc1-h2.zoho.com.au
+
+0.0.0.0 zoho.eu
+0.0.0.0 www.zoho.eu
+0.0.0.0 accounts.zoho.eu
+
+0.0.0.0 zoho.in
+0.0.0.0 www.zoho.in
+0.0.0.0 accounts.zoho.in
+0.0.0.0 zs-in1-lc1.zoho.in
+
+0.0.0.0 zoho.jp
+0.0.0.0 www.zoho.jp
+0.0.0.0 accounts.zoho.jp
+0.0.0.0 zs-jp1-lc1.zoho.jp
+0.0.0.0 zs-jp1-lc2.zoho.jp
+
+0.0.0.0 zohomesh.com
+0.0.0.0 www.zohomesh.com
+0.0.0.0 sa.zohomesh.com
+
+0.0.0.0 zohocloud.ca
+0.0.0.0 www.zohocloud.ca
+0.0.0.0 accounts.zohocloud.ca
+0.0.0.0 zs-ca1-lc1.zohocloud.ca
 
 0.0.0.0 zohopublic.com
 0.0.0.0 www.zohopublic.com
 0.0.0.0 files.zohopublic.com
-0.0.0.0 salesiq.zohopublic.com
-0.0.0.0 fonts.zohowebstatic.com
 0.0.0.0 vts.zohopublic.com
+0.0.0.0 salesiq.zohopublic.com
+0.0.0.0 zpublic.zohopublic.com
 
 0.0.0.0 zohowebstatic.com
 0.0.0.0 www.zohowebstatic.com
+0.0.0.0 fonts.zohowebstatic.com
+0.0.0.0 webfonts.zohowebstatic.com
 
 0.0.0.0 zohostatic.com
 0.0.0.0 www.zohostatic.com
 0.0.0.0 fonts.zohostatic.com
 
+0.0.0.0 zohocdn.com
+0.0.0.0 www.zohocdn.com
 0.0.0.0 js.zohocdn.com
 0.0.0.0 css.zohocdn.com
 0.0.0.0 gsite.zohocdn.com
@@ -39,6 +76,7 @@
 0.0.0.0 www.zohosalesiq.com
 0.0.0.0 widgets.zohosalesiq.com
 
+0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 zohotagmanager.cdn.pagesense.io
 
 0.0.0.0 manageengine.com
