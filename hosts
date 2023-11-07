@@ -1,8 +1,227 @@
+# =====================================
 # Title: ManageEngine & Zoho
-
-#=====================================
-# Title: Hosts contributed by Luan Oliveira
+# Hosts contributed by Luan Oliveira
 # https://www.linkedin.com/in/luan-augusto
+
+# =====================================
+# Title: .COM list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.com
+0.0.0.0 patch-agent0.manageengine.com
+0.0.0.0 patch-agent1.manageengine.com
+0.0.0.0 patch-agent2.manageengine.com
+0.0.0.0 patch-agent3.manageengine.com
+0.0.0.0 patch-agent4.manageengine.com
+0.0.0.0 patch-agent5.manageengine.com
+0.0.0.0 patch-agent6.manageengine.com
+0.0.0.0 patch-agent7.manageengine.com
+0.0.0.0 patch-agent8.manageengine.com
+0.0.0.0 patch-agent9.manageengine.com
+0.0.0.0 patch-agent10.manageengine.com
+0.0.0.0 patchdb.manageengine.com
+0.0.0.0 patchdatabase.manageengine.com
+0.0.0.0 us1-dms.zoho.com
+0.0.0.0 us2-dms.zoho.com
+0.0.0.0 us3-dms.zoho.com
+0.0.0.0 us4-dms.zoho.com
+0.0.0.0 us5-dms.zoho.com
+0.0.0.0 download-accl.zoho.com
+0.0.0.0 downloads.zohocdn.com
+0.0.0.0 files-me-accl.zoho.com
+0.0.0.0 h2-stratus.zohocdn.com
+0.0.0.0 innorth.zohomesh.com
+
+# =====================================
+# Title: .EU list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.eu
+0.0.0.0 patch-agent0.manageengine.eu
+0.0.0.0 patch-agent1.manageengine.eu
+0.0.0.0 patch-agent2.manageengine.eu
+0.0.0.0 patch-agent3.manageengine.eu
+0.0.0.0 patch-agent4.manageengine.eu
+0.0.0.0 patch-agent5.manageengine.eu
+0.0.0.0 patch-agent6.manageengine.eu
+0.0.0.0 patch-agent7.manageengine.eu
+0.0.0.0 patch-agent8.manageengine.eu
+0.0.0.0 patch-agent9.manageengine.eu
+0.0.0.0 patch-agent10.manageengine.eu
+0.0.0.0 patchdb.manageengine.eu
+0.0.0.0 patchdatabase.manageengine.eu
+0.0.0.0 eu1-dms.zoho.eu
+0.0.0.0 eu2-dms.zoho.eu
+0.0.0.0 eu3-dms.zoho.eu
+0.0.0.0 eu4-dms.zoho.eu
+0.0.0.0 eu5-dms.zoho.eu
+0.0.0.0 download-accl.zoho.eu
+0.0.0.0 downloads.zohocdn.eu
+
+# =====================================
+# Title: .AU list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.com.au
+0.0.0.0 patch-agent0.manageengine.com.au
+0.0.0.0 patch-agent1.manageengine.com.au
+0.0.0.0 patch-agent2.manageengine.com.au
+0.0.0.0 patch-agent3.manageengine.com.au
+0.0.0.0 patch-agent4.manageengine.com.au
+0.0.0.0 patch-agent5.manageengine.com.au
+0.0.0.0 patch-agent6.manageengine.com.au
+0.0.0.0 patch-agent7.manageengine.com.au
+0.0.0.0 patch-agent8.manageengine.com.au
+0.0.0.0 patch-agent9.manageengine.com.au
+0.0.0.0 patch-agent10.manageengine.com.au
+0.0.0.0 patchdb.manageengine.com.au
+0.0.0.0 patchdatabase.manageengine.com.au
+0.0.0.0 au1-dms.zoho.com.au
+0.0.0.0 au2-dms.zoho.com.au
+0.0.0.0 au3-dms.zoho.com.au
+0.0.0.0 au4-dms.zoho.com.au
+0.0.0.0 au5-dms.zoho.com.au
+0.0.0.0 downloads.zohocdn.com.au
+0.0.0.0 download.zoho.com.au
+
+# =====================================
+# Title: .IN list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.in
+0.0.0.0 patch-agent0.manageengine.in
+0.0.0.0 patch-agent1.manageengine.in
+0.0.0.0 patch-agent2.manageengine.in
+0.0.0.0 patch-agent3.manageengine.in
+0.0.0.0 patch-agent4.manageengine.in
+0.0.0.0 patch-agent5.manageengine.in
+0.0.0.0 patch-agent6.manageengine.in
+0.0.0.0 patch-agent7.manageengine.in
+0.0.0.0 patch-agent8.manageengine.in
+0.0.0.0 patch-agent9.manageengine.in
+0.0.0.0 patch-agent10.manageengine.in
+0.0.0.0 patchdb.manageengine.in
+0.0.0.0 patchdatabase.manageengine.in
+0.0.0.0 in1-dms.zoho.in
+0.0.0.0 in2-dms.zoho.in
+0.0.0.0 in3-dms.zoho.in
+0.0.0.0 in4-dms.zoho.in
+0.0.0.0 in5-dms.zoho.in
+0.0.0.0 download-accl.zoho.in
+0.0.0.0 downloads.zohocdn.in
+
+# =====================================
+# Title: .JP list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.jp
+0.0.0.0 patch-agent0.manageengine.jp
+0.0.0.0 patch-agent1.manageengine.jp
+0.0.0.0 patch-agent2.manageengine.jp
+0.0.0.0 patch-agent3.manageengine.jp
+0.0.0.0 patch-agent4.manageengine.jp
+0.0.0.0 patch-agent5.manageengine.jp
+0.0.0.0 patch-agent6.manageengine.jp
+0.0.0.0 patch-agent7.manageengine.jp
+0.0.0.0 patch-agent8.manageengine.jp
+0.0.0.0 patch-agent9.manageengine.jp
+0.0.0.0 patch-agent10.manageengine.jp
+0.0.0.0 patchdb.manageengine.jp
+0.0.0.0 patchdatabase.manageengine.jp
+0.0.0.0 jp1-dms.zoho.jp
+0.0.0.0 jp2-dms.zoho.jp
+0.0.0.0 jp3-dms.zoho.jp
+0.0.0.0 jp4-dms.zoho.jp
+0.0.0.0 jp5-dms.zoho.jp
+0.0.0.0 downloads.zohocdn.jp
+0.0.0.0 download.zoho.jp
+
+# =====================================
+# Title: .CN list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.cn
+0.0.0.0 patch.manageengine.com.cn
+0.0.0.0 patch-agent0.manageengine.cn
+0.0.0.0 patch-agent0.manageengine.com.cn
+0.0.0.0 patch-agent1.manageengine.cn
+0.0.0.0 patch-agent1.manageengine.com.cn
+0.0.0.0 patch-agent2.manageengine.cn
+0.0.0.0 patch-agent2.manageengine.com.cn
+0.0.0.0 patch-agent3.manageengine.cn
+0.0.0.0 patch-agent3.manageengine.com.cn
+0.0.0.0 patch-agent4.manageengine.cn
+0.0.0.0 patch-agent4.manageengine.com.cn
+0.0.0.0 patch-agent5.manageengine.cn
+0.0.0.0 patch-agent5.manageengine.com.cn
+0.0.0.0 patch-agent6.manageengine.cn
+0.0.0.0 patch-agent6.manageengine.com.cn
+0.0.0.0 patch-agent7.manageengine.cn
+0.0.0.0 patch-agent7.manageengine.com.cn
+0.0.0.0 patch-agent8.manageengine.cn
+0.0.0.0 patch-agent8.manageengine.com.cn
+0.0.0.0 patch-agent9.manageengine.cn
+0.0.0.0 patch-agent9.manageengine.com.cn
+0.0.0.0 patch-agent10.manageengine.cn
+0.0.0.0 patch-agent10.manageengine.com.cn
+0.0.0.0 patchdb.manageengine.com.cn
+0.0.0.0 patchdatabase.manageengine.com.cn
+0.0.0.0 cn1-dms.zoho.com.cn
+0.0.0.0 cn2-dms.zoho.com.cn
+0.0.0.0 cn3-dms.zoho.com.cn
+0.0.0.0 cn4-dms.zoho.com.cn
+0.0.0.0 cn5-dms.zoho.com.cn
+0.0.0.0 downloads.zohocdn.com.cn
+0.0.0.0 download.zoho.com.cn
+
+# =====================================
+# Title: .CA list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.ca
+0.0.0.0 patch-agent0.manageengine.ca
+0.0.0.0 patch-agent1.manageengine.ca
+0.0.0.0 patch-agent2.manageengine.ca
+0.0.0.0 patch-agent3.manageengine.ca
+0.0.0.0 patch-agent4.manageengine.ca
+0.0.0.0 patch-agent5.manageengine.ca
+0.0.0.0 patch-agent6.manageengine.ca
+0.0.0.0 patch-agent7.manageengine.ca
+0.0.0.0 patch-agent8.manageengine.ca
+0.0.0.0 patch-agent9.manageengine.ca
+0.0.0.0 patch-agent10.manageengine.ca
+0.0.0.0 patchdb.manageengine.ca
+0.0.0.0 patchdatabase.manageengine.ca
+0.0.0.0 ca1-dms.zohoone.ca
+0.0.0.0 ca2-dms.zohoone.ca
+0.0.0.0 ca3-dms.zohoone.ca
+0.0.0.0 ca4-dms.zohoone.ca
+0.0.0.0 ca5-dms.zohoone.ca
+0.0.0.0 downloads.zohocdn.ca
+0.0.0.0 download.zohoone.ca
+
+# =====================================
+# Title: .UK list retrieved from ManageEngine Docs
+
+0.0.0.0 patch.manageengine.uk
+0.0.0.0 patch-agent0.manageengine.uk
+0.0.0.0 patch-agent1.manageengine.uk
+0.0.0.0 patch-agent2.manageengine.uk
+0.0.0.0 patch-agent3.manageengine.uk
+0.0.0.0 patch-agent4.manageengine.uk
+0.0.0.0 patch-agent5.manageengine.uk
+0.0.0.0 patch-agent6.manageengine.uk
+0.0.0.0 patch-agent7.manageengine.uk
+0.0.0.0 patch-agent8.manageengine.uk
+0.0.0.0 patch-agent9.manageengine.uk
+0.0.0.0 patch-agent10.manageengine.uk
+0.0.0.0 patchdb.manageengine.uk
+0.0.0.0 patchdatabase.manageengine.uk
+0.0.0.0 uk1-dms.zoho.uk
+0.0.0.0 uk2-dms.zoho.uk
+0.0.0.0 uk3-dms.zoho.uk
+0.0.0.0 uk4-dms.zoho.uk
+0.0.0.0 uk5-dms.zoho.uk
+0.0.0.0 downloads.zohocdn.uk
+0.0.0.0 download.zoho.uk
+
+
+
+# =====================================
+# Title: Retrieved from DNS Records
 
 0.0.0.0 dualstack.elb-zohojapan-533932603.ap-northeast-1.elb.amazonaws.com
 
@@ -26,16 +245,22 @@
 0.0.0.0 zoho.com.au
 0.0.0.0 www.zoho.com.au
 0.0.0.0 accounts.zoho.com.au
+0.0.0.0 zs-au1-lc1.zoho.com.au
+0.0.0.0 zs-au1-lc2.zoho.com.au
 0.0.0.0 zs-au1-lc1-h2.zoho.com.au
+0.0.0.0 zs-au1-lc2-h2.zoho.com.au
 
 0.0.0.0 zoho.eu
 0.0.0.0 www.zoho.eu
 0.0.0.0 accounts.zoho.eu
+0.0.0.0 zs-eu1-lc1.zoho.eu
+0.0.0.0 zs-eu1-lc2.zoho.eu
 
 0.0.0.0 zoho.in
 0.0.0.0 www.zoho.in
 0.0.0.0 accounts.zoho.in
 0.0.0.0 zs-in1-lc1.zoho.in
+0.0.0.0 zs-in1-lc2.zoho.in
 
 0.0.0.0 zoho.jp
 0.0.0.0 www.zoho.jp
@@ -43,15 +268,22 @@
 0.0.0.0 zs-jp1-lc1.zoho.jp
 0.0.0.0 zs-jp1-lc2.zoho.jp
 
-0.0.0.0 zohomesh.com
-0.0.0.0 www.zohomesh.com
-0.0.0.0 sa.zohomesh.com
-0.0.0.0 files-me-accl.zohomesh.com
+0.0.0.0 zohocloud.ca
+0.0.0.0 www.zohocloud.ca
+0.0.0.0 accounts.zohocloud.ca
+0.0.0.0 zs-ca1-lc1.zohocloud.ca
+0.0.0.0 zs-ca1-lc2.zohocloud.ca
 
 0.0.0.0 zohocloud.ca
 0.0.0.0 www.zohocloud.ca
 0.0.0.0 accounts.zohocloud.ca
 0.0.0.0 zs-ca1-lc1.zohocloud.ca
+0.0.0.0 zs-ca1-lc2.zohocloud.ca
+
+0.0.0.0 zohomesh.com
+0.0.0.0 www.zohomesh.com
+0.0.0.0 sa.zohomesh.com
+0.0.0.0 files-me-accl.zohomesh.com
 
 0.0.0.0 zohopublic.com
 0.0.0.0 www.zohopublic.com
@@ -87,6 +319,7 @@
 
 0.0.0.0 manageengine.com
 0.0.0.0 www.manageengine.com
+0.0.0.0 zs-us4-lcgiant.manageengine.com
 0.0.0.0 endpointcentral-agent1.manageengine.com
 0.0.0.0 endpointcentral-agent2.manageengine.com
 0.0.0.0 endpointcentral-agent3.manageengine.com
